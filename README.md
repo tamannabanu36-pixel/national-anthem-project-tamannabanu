@@ -29,7 +29,7 @@ anthem-workshop/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/atiq6969/anthem-workshop.git
+git clone https://github.com/tamannabanu36-pixel/national-anthem-project-tamannabanu/tree/main
 cd anthem-workshop
 ```
 
@@ -43,7 +43,7 @@ pip install flask
 python3 app.py
 ```
 
-4. Open in browser: [http://localhost:5000](http://localhost:5000)
+4. Open in browser: (http://localhost:5000)
 
 ---
 
@@ -56,4 +56,4 @@ python3 app.py
 
 ---
 
-**Repository**: [https://github.com/atiq6969/anthem-workshop](https://github.com/atiq6969/anthem-workshop)
+**Repository**: https://github.com/tamannabanu36-pixel/national-anthem-project-tamannabanu/tree/main
